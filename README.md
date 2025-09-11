@@ -1,0 +1,2 @@
+# predicting-hourly-boarding-demand-on-bus-passengers-using-imbalanced-records-using-deep-learning
+This project uses smartcard records to forecast hourly bus boarding demand. The dataset is imbalanced, with significant variation between peak and non-peak hours. Deep learning models (LSTM/GRU/Hybrid) are trained to capture temporal trends. Imbalance-aware techniques ensure fair prediction across all demand ranges. 
